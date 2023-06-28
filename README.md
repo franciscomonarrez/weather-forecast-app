@@ -7,4 +7,4 @@ This project is a simple weather information system that retrieves weather data 
 Before running the project, make sure you have the following prerequisites:
 
 - Python 3.8 installed
-- Required packages: `requests`, `sqlite3`
+- Required packages: `requests`, `sqlite3`# weather-forecast-app
