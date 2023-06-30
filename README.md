@@ -43,3 +43,4 @@ The program uses an SQLite database (`weather.db`) to store the weather data. Tw
 2. `forecast`: Stores the forecast data for different cities and dates.
 
 # skyscope
+# skyscope
