@@ -45,3 +45,4 @@ The program uses an SQLite database (`weather.db`) to store the weather data. Tw
 # skyscope
 # skyscope
 # skyscope
+# skyscope
